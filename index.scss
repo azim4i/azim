@@ -1,0 +1,420 @@
+*{
+    margin: 0;
+ }
+ .hui{
+    background-image: url(Rectangle.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+.conteiner{
+    justify-content: center;
+    text-align: center;
+}
+ .logo{
+    padding-top: 57px;
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+}
+.text{
+    
+    margin-left: 400px;
+}
+.tex{
+    text-decoration: none;
+    margin-right: 42px;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.1em;
+
+color: #000000;
+
+}
+.fsn{
+    align-items: center;
+    display: flex;
+    padding-top: 140px;
+    padding-left: 100px;
+
+}
+.t1{
+    margin-left: 177px;
+}
+.t{
+    font-weight: 550;
+    font-size: 48px;
+    
+    color: #000000;
+    
+}
+.t2{
+    margin-top: 55px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #727272;
+
+}
+.t3{
+    color: #FFFFFF;
+    text-decoration: none;
+    background: #34547A;
+    padding: 25px 41px;
+    
+}
+.tx{
+    text-align: center;
+    padding-top: 119px;
+}
+.t4{
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+.t5{
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #727272;
+
+}
+.conteiner2{
+    background-image: url(Rectangle\ \(1\).png);
+    margin-top: 100px;
+}
+.f1{
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px;
+}
+.f{
+    margin-right: 20px;
+}
+.conteiner3{
+    display: flex;
+    padding: 102px 200px;
+}
+.moi1{
+    font-weight: 1000;
+    font-size: 32px;
+    line-height: 38px;
+    padding-top: 102px;
+    color: #000000;
+
+}
+.moi{
+    margin-left: 150px;
+}
+.li{
+    
+    padding-top: 50px;
+}
+.li1{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    
+    color: #727272;
+
+}
+.li3{
+    position: absolute;
+}
+.li4{
+    position: absolute;
+}
+.li5{
+    position: absolute;
+}
+.conteiner4{
+    background-image: url(Rectangle\ 9.png);
+    height: 125vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.aaa{
+    padding-bottom: 50px;
+}
+.ft{
+    
+    text-align: center;
+    padding: 50px 200px;
+}
+.ft2{
+    font-weight: 1000;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #000000;
+
+}
+.ft3{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 50px;
+    color: #727272;
+}
+.ft1{
+    background: url(Rectangle\ 5.png);
+    height: 50vp;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 250px 0px;
+
+}
+.k{
+    display: flex;
+    justify-content: center;
+}
+.g{
+    position: absolute;
+    left: 559px;
+    padding-top: 154.5px;
+}
+.mk{
+    text-align: center;
+    padding: 72px 0px;
+
+
+}
+.m{
+    margin-right: 30px;
+}
+.conteiner6{
+    background-image: url(Rectangle.png);
+    height: 70vh;
+    text-align: center;
+    background-size: cover;
+    padding: 100px 0px;
+}
+.im{
+    display: flex; 
+    justify-content: center;
+    padding-left: 30px;
+
+}
+.im1{
+    margin-right: 30px;
+    padding-top: 65px;
+}
+.im2{
+    padding: 10px 50.5px;
+}
+.im3{
+    padding-top: 20px;
+}
+.t6{
+    font-weight: 1000;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+
+}
+.t7{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    padding-top: 50px;
+}
+.im4{
+    padding: 15px 39px;
+    background-color: #34547A;
+    color: #FFFFFF;
+}
+.im5{
+    padding-top: 50px;
+}
+.conteiner7{
+    background-color: #34547A;
+}
+.v{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+.vk1{ 
+    color: white;
+    
+}
+.vk3{
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+}
+.vk4{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;  
+}
+.g{
+    display: none;
+}
+.burger-menu{
+    display: none;
+}
+.tex9{
+    display: block;
+    text-decoration: none;
+    opacity: 0.75;
+    color: rgb(0, 0, 0);
+    line-height: 30px;
+
+}
+.mnbv{
+    position: absolute;
+    display: block;
+    margin-top: 30px;
+}
+button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+.disp{
+    display: none;
+
+}
+.mess{
+    padding: 50px 200px;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1400px) {
+    .q1{
+        display: none;
+    }
+}
+
+
+@media (max-width:1350px){
+    .conteiner3{
+        display: block;
+        justify-content: center;
+        padding: 100px 0px;
+    }
+    .moi1,
+    .moi{
+        display: flex;
+        justify-content: center;
+        margin-left: 0px;
+        padding-top: 50px;
+    }
+    .text{
+        margin-left: 300px;
+    }
+    .p{
+        display: none;
+    }
+    .ft1{
+        padding: 150px;
+    }
+}
+
+
+@media (max-width:1160px){
+    .fsn{
+        display: block;
+        padding-left: 0px;
+    }
+    .t1{
+        padding-top: 50px;
+        margin-left: 0px;
+    }
+    .text{
+        display: none;
+    }
+    .no{
+        display: none;
+    }
+    .burger-menu{
+        display: flex;
+    }
+    .logo{
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 50px;
+    }
+    .conteiner4{
+        height: 100vh;
+    }
+}
+
+@media (max-width:1050px){
+    .q1{
+        display: block;
+        padding-top: 20px;
+    }
+    .q{
+        display: none;
+    }
+    .ft{
+        padding: 50px 0px;
+    }
+    
+}
+
+
+
+
+@media (max-width:580px){
+    .bag{
+        width: 300px;
+        height: 250px;
+    }
+    .ft1{
+        padding: 90px;
+    }
+    .tel{
+        width: 200px;
+        height: 3.5px;
+    }
+    .tel1{
+        width: 150px;
+        height: 3.5px;
+    }
+    .im{
+        display: block;
+    }
+    .im1{
+        padding-top: 20px;
+    }
+    .im2{
+        padding: 5px 3px;
+    }
+    .mess{
+        padding: 10px 4px;
+    }
+    .f1,
+    .s{
+        display: block;
+        text-align: center;
+        margin-right: 0px;
+        margin-top: 20px;
+
+    }
+    .nout{
+        width: 250px;
+    }
+    .hui{
+        height: 150vh;
+    }
+    .t,
+    .t4{
+        font-size: 30px;
+    }
+}
